@@ -1,4 +1,4 @@
-# OsspProject
+# Operating Systems and System Processing Project
 METHODOLOGY:
  This project consists of designing a multithreaded application that determines whether the solution to a Sudoku puzzle is valid.
 .Our strategy is to create threads that check the following criteria:
